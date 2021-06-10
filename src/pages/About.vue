@@ -10,8 +10,8 @@ ul
   li Хеши и моды для роутера;
   li Настройка общего конфига.
 p
-  | Сделано на курсе: 
-  a(href="https://tocode.ru/courses/vuejs-3-s-nulya-do-rezultata/" target="_blank") 
+  | Сделано на курсе:
+  a(href="https://tocode.ru/courses/vuejs-3-s-nulya-do-rezultata/" target="_blank")
     | Курс по Vue.js 3 с нуля до результата
 </template>
 
