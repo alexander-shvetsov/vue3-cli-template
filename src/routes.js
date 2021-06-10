@@ -4,7 +4,7 @@ import {
   createWebHashHistory
 } from "vue-router";
 
-const routerHistory = createWebHistory();
+const routerHistory = createWebHashHistory();
 
 import HomePage from "./pages/Home";
 import AboutPage from "./pages/About";
